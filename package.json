@@ -1,5 +1,5 @@
 {
-  "name": "express-promise-router",
+  "name": "@qubit/express-promise-router",
   "version": "3.0.2",
   "main": "lib/express-promise-router.js",
   "description": "A lightweight wrapper for Express 4's Router that allows middleware to return promises",
